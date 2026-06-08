@@ -1,0 +1,12 @@
+MENU|D1|Dimsum Ayam|18000|0|
+MENU|D2|Dimsum Udang|22000|0|
+MENU|D3|Lumpia|16000|38|
+MENU|D4|Money Bag|16000|38|
+MENU|M1|Chicken Wings|25000|0|
+PANAS|K1|Kopi Hitam|12000|0|85
+PANAS|K2|Teh Tarik|14000|0|80
+DINGIN|T1|Es Teh |10000|0|Sedang
+DINGIN|T2|Matcha Latte|28000|0|Banyak
+DINGIN|T3|Lemon Tea|15000|0|Sedang
+MENU|D5|Siomay|15000|0|
+DINGIN|K3|Creamy Latte|23000|0|Sedang
